@@ -1,0 +1,152 @@
+\id སྐྱབས་སུ་མཆི།
+\toc1 སྦྱོང་ཚན།
+
+\page 1
+\quiz
+\qn
+\qs
+\qu གོང་གི་ཚིག་འདིའི་ཀློག་སྟངས་ནི།
+\qu LTPQ03_01.jpg
+\aw 🔊 
+\aw LTP03_08.mp3
+\ar 🔊 
+\ar LTP03_03.mp3
+\aw 🔊 
+\aw LTP03_04.mp3
+\aw 🔊 
+\aw LTP03_02.mp3
+
+\page 2  
+\quiz
+\qn
+\qs
+\qu སྒྲ་འདིའི་ཡི་གེ་གང་རེད།
+\qu LTP03_05.mp3
+\aw ངོ་མ་སྙན་གི།
+\aw ངོ་སོ་བསྟོད།
+\ar ཤུགས་རྒྱོབས།
+\aw སྙན་མོ་འདུག
+
+\page 3
+\quiz 
+\qn
+\qs
+\qu  ______ བརྟན་པར་སྨོན།
+\qu LTP03_07.mp3
+\aw ཤུགས་རྒྱོབས་
+\ar སྐུ་ཚེ་
+\aw ངོ་སོ་
+\aw སྐྱབས་སུ་
+
+\page 4
+\quiz
+\qn
+\qs
+\qu སྒྲ་འདིའི་ཚིག་དུམ་གང་རེད།
+\qu LTP03_08.mp3
+\aw LTPQ03_02.jpg
+\aw LTPQ03_04.jpg
+\ar LTPQ03_03.jpg
+\aw LTPQ03_01.jpg
+
+\page 5  
+\quiz 
+\qn
+\qs
+\qu མོ་/འདུག/སྙན་
+\aw 🔊
+\aw LTP03_05.mp3
+\aw 🔊
+\aw LTP03_03.mp3
+\aw 🔊
+\aw LTP03_08.mp3
+\ar 🔊
+\ar LTP03_06.mp3
+
+page 6
+\quiz
+\qn
+\qs
+\qu གོང་གི་ཚིག་དུམ་འདིའི་ཀློག་སྟངས་ནི།
+\qu LTPQ03_02.jpg
+\aw 🔊 
+\aw LTP03_04.mp3
+\aw 🔊 
+\aw LTP03_02.mp3
+\aw 🔊 
+\aw LTP03_05.mp3
+\ar 🔊 
+\ar LTP03_07.mp3
+
+\page 7
+\quiz
+\qn
+\qs
+\qu སྒྲ་འདིའི་ཚིག་དུམ་གང་རེད།
+\qu LTP03_15.mp3
+\aw སྐུ་ཚེ་བརྟན།
+\aw སྙན་མོ་འདུག
+\ar སྐྱབས་སུ་མཆི།
+\aw ངོ་མ་སྙན་གི།
+
+\page 8
+\quiz
+\qn
+\qs
+\qu ཚིག་དུམ་འདིའི་ཀློག་སྟངས་ནི།
+\qu LTPQ03_03.jpg
+\aw 🔊 
+\aw LTP03_12.mp3
+\aw 🔊 
+\aw LTP03_14.mp3
+\aw 🔊 
+\aw LTP03_9.mp3
+\ar 🔊 
+\ar LTP03_11.mp3
+
+\page 9 
+\quiz
+\qn
+\qs
+\qu སྒྲ་འདིའི་ཚིག་དུམ་གང་རེད།
+\qu LTP03_14.mp3
+\aw ཤུགས་རྒྱོབས།
+\aw ངོ་སོ་བསྟོད།
+\ar སྐུ་ཚེ་བརྟན་པར་སྨོན།
+\aw སྐྱབས་སུ་མཆི།
+
+\page 10
+\quiz 
+\qn
+\qs
+\qu ངོ་མ་ ______ །
+\qu LTP03_9.mp3
+\ar སྙན་གི་
+\aw སྨོན་
+\aw བརྟན་པར་
+\aw སྐྱབས་སུ་
+
+\page 11  
+\quiz 
+\qn
+\qs
+\qu	 སྐྱབས་/མཆི།/སུ་
+\aw 🔊
+\aw LTP03_10.mp3
+\aw 🔊
+\aw LTP03_12.mp3
+\ar 🔊
+\ar LTP03_15.mp3
+\aw 🔊
+\aw LTP03_09.mp3
+
+\page 12
+\quiz
+\qn
+\qs
+\qu སྒྲ་འདིའི་ཚིག་དུམ་གང་རེད།
+\qu LTP03_11.mp3
+\aw LTPQ03_02.jpg
+\aw LTPQ03_03.jpg
+\ar LTPQ03_04.jpg
+\aw LTPQ03_01.jpg
