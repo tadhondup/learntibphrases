@@ -8,13 +8,13 @@
 \qs
 \qu གོང་གི་ཚིག་འདིའི་ཀློག་སྟངས་ནི།
 \qu LTPQ03_01.jpg
-\aw 🔊 
+\aw 🔊
 \aw LTP03_08.mp3
-\ar 🔊 
+\ar 🔊
 \ar LTP03_03.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP03_04.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP03_02.mp3
 
 \page 2  
@@ -70,13 +70,13 @@ page 6
 \qs
 \qu གོང་གི་ཚིག་དུམ་འདིའི་ཀློག་སྟངས་ནི།
 \qu LTPQ03_02.jpg
-\aw 🔊 
+\aw 🔊
 \aw LTP03_04.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP03_02.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP03_05.mp3
-\ar 🔊 
+\ar 🔊
 \ar LTP03_07.mp3
 
 \page 7
@@ -96,13 +96,13 @@ page 6
 \qs
 \qu ཚིག་དུམ་འདིའི་ཀློག་སྟངས་ནི།
 \qu LTPQ03_03.jpg
-\aw 🔊 
+\aw 🔊
 \aw LTP03_12.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP03_14.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP03_9.mp3
-\ar 🔊 
+\ar 🔊
 \ar LTP03_11.mp3
 
 \page 9 

@@ -8,13 +8,13 @@
 \qs
 \qu གོང་གི་ཚིག་འདིའི་ཀློག་སྟངས་ནི།
 \qu LTPQ04_05.jpg
-\aw 🔊 
+\aw 🔊
 \aw LTP04_01.mp3
-\ar 🔊 
+\ar 🔊
 \ar LTP04_08.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP04_04.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP04_02.mp3
 
 \page 2  
@@ -70,13 +70,13 @@ page 6
 \qs
 \qu གོང་གི་ཚིག་དུམ་འདིའི་ཀློག་སྟངས་ནི།
 \qu LTPQ04_03.jpg
-\aw 🔊 
+\aw 🔊
 \aw LTP04_04.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP03_02.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP04_07.mp3
-\ar 🔊 
+\ar 🔊
 \ar LTP04_05.mp3
 
 \page 7
@@ -96,13 +96,13 @@ page 6
 \qs
 \qu ཚིག་དུམ་འདིའི་ཀློག་སྟངས་ནི།
 \qu LTPQ04_02.jpg
-\aw 🔊 
+\aw 🔊
 \aw LTP04_12.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP04_14.mp3
-\aw 🔊 
+\aw 🔊
 \aw LTP04_9.mp3
-\ar 🔊 
+\ar 🔊
 \ar LTP04_11.mp3
 
 \page 9 
