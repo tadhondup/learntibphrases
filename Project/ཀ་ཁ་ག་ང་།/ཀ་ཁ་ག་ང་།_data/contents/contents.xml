@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+
+  <features>
+    <feature name="show-titles" value="true"/>
+    <feature name="show-subtitles" value="true"/>
+    <feature name="show-references" value="false"/>
+    <feature name="show-text-size-button" value="true"/>
+    <feature name="launch-action" value="contents"/>
+    <feature name="navigation-type" value="up"/>
+    <feature name="title-type" value="custom"/>
+  </features>
+
+  <contents-items>
+    <contents-item id="1">
+      <title lang="default">ཚིག་དུམ་སློབ་སྦྱོང་།</title>
+      <subtitle lang="default">ཚན་པ་དང་པོ།</subtitle>
+      <image-filename>01.png</image-filename>
+      <link type="screen" target="2" />
+    </contents-item>
+
+    <contents-item id="2">
+      <title lang="default">ཚིག་དུམ་སློབ་སྦྱོང་།</title>
+      <subtitle lang="default">ཚན་པ་གཉིས་པ།</subtitle>
+      <image-filename>02.png</image-filename>
+      <link type="screen" target="3" />
+    </contents-item>
+
+    <contents-item id="3">
+      <title lang="default">ཚིག་དུམ་སློབ་སྦྱོང་།</title>
+      <subtitle lang="default">ཚན་པ་གསུམ་པ།</subtitle>
+      <image-filename>03.png</image-filename>
+      <link type="screen" target="4" />
+    </contents-item>
+
+    <contents-item id="5">
+      <title lang="default">ཚིག་དུམ་སློབ་སྦྱོང་།</title>
+      <subtitle lang="default">ཚན་པ་བཞི་བ།</subtitle>
+      <image-filename>04.png</image-filename>
+      <link type="screen" target="5" />
+    </contents-item>
+  </contents-items>
+
+  <contents-screens>
+    <contents-screen id="1">
+      <title lang="default">Home</title>
+      <items>
+        <item id="1" />
+        <item id="2" />
+        <item id="3" />
+        <item id="5" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="2">
+      <title lang="default">ཚིག་དུམ་སློབ་སྦྱོང་།-1</title>
+      <items>
+      </items>
+    </contents-screen>
+
+    <contents-screen id="3">
+      <title lang="default">ཚིག་དུམ་སློབ་སྦྱོང་།-2</title>
+      <items>
+      </items>
+    </contents-screen>
+
+    <contents-screen id="4">
+      <title lang="default">ཚིག་དུམ་སློབ་སྦྱོང་།-3</title>
+      <items>
+      </items>
+    </contents-screen>
+
+    <contents-screen id="5">
+      <title lang="default">ཚིག་དུམ་སློབ་སྦྱོང་།-4</title>
+      <items>
+      </items>
+    </contents-screen>
+  </contents-screens>
+</contents>

@@ -58,9 +58,9 @@
 \qn
 \qs
 \qu སྒྲ་འདིའི་ཚིག་དུམ་གང་རེད།
-\qu LTP01_10.mp3
-\ar LTPQ01_03.jpg
-\aw LTPQ01_02.jpg
+\qu LTP01_14.mp3
+\ar LTPQ01_02.jpg
+\aw LTPQ01_03.jpg
 \aw LTPQ01_04.jpg
 \aw LTPQ01_01.jpg
 
@@ -73,11 +73,11 @@ page 6
 \aw 🔊 
 \aw LTP01_02.mp3
 \aw 🔊 
-\aw LTP01_06.mp3
+\aw LTP01_07.mp3
 \aw 🔊 
 \aw LTP01_05.mp3
 \ar 🔊 
-\ar LTP01_07.mp3
+\ar LTP01_06.mp3
 
 \page 7
 \quiz
@@ -95,15 +95,15 @@ page 6
 \qn
 \qs
 \qu ཚིག་དུམ་འདིའི་ཀློག་སྟངས་ནི།
-\qu LTPQ01_04.jpg
+\qu LTPQ01_03.jpg
 \aw 🔊 
 \aw LTP01_12.mp3
 \aw 🔊 
 \aw LTP01_14.mp3
 \aw 🔊 
-\aw LTP01_09.mp3
+\aw LTP01_9.mp3
 \ar 🔊 
-\ar LTP01_13.mp3
+\ar LTP01_10.mp3
 
 \page 9 
 \quiz
@@ -121,7 +121,7 @@ page 6
 \qn
 \qs
 \qu བཀྲ་ཤིས་ ______ །
-\qu LTP01_09.mp3
+\qu LTP01_9.mp3
 \aw སྐུ་ཚེ་བརྟན།
 \aw བཀའ་དྲིན།
 \ar བདེ་ལེགས།

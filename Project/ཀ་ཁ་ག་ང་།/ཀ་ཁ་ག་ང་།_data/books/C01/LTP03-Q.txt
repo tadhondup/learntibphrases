@@ -101,9 +101,9 @@ page 6
 \aw 🔊
 \aw LTP03_14.mp3
 \aw 🔊
-\aw LTP03_09.mp3
+\aw LTP03_9.mp3
 \ar 🔊
-\ar LTP03_15.mp3
+\ar LTP03_11.mp3
 
 \page 9 
 \quiz
@@ -121,8 +121,8 @@ page 6
 \qn
 \qs
 \qu ངོ་མ་ ______ །
-\qu LTP03_09.mp3
-\ar སྙན་གི
+\qu LTP03_9.mp3
+\ar སྙན་གི་
 \aw སྨོན་
 \aw བརྟན་པར་
 \aw སྐྱབས་སུ་
